@@ -6,6 +6,6 @@ The main point of the project is to minimize human "hard" coding of various envi
 
 I am looking for research assistant or PhD student positions. Please contact TianqiZhu at u dot nus dot edu if you have opportunity available.
 
-I am also interested in server resources etc.
+I am also interested in server resources, robotics etc, if someone if nice enough for me to borrow.
 
 Thanks for reading. Have a nice day.
