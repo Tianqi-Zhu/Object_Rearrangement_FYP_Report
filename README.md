@@ -1,26 +1,6 @@
 # Object Rearrangement Under Geometric and Commonsense Constraints
 
-I opted for the self-proposed version of my undergraduate final year project (FYP) and I came up with the topic above almost entirely on my own. I am interested in continue doing research along this line or something relevant.
-
-The main point of the project is to minimize human "hard" coding of various environment specifications etc for robots to place objects in a constrained physical structure, which enables the same system structure to be generalizable to new environments, conditions, with(out) variations on human related parameters.
-
-I am looking for research assistant or PhD student positions. Please contact TianqiZhu at u dot nus dot edu if you have opportunity available.
-
-I am also interested in server resources, robots etc, if i could borrow some from someone to use for a short period.
-
-Thanks for reading. Have a nice day.
-
-The reports contain several parts:
-- interim report, on related work and formulation of porblem satisfying several constraints
-- final report part one, pattern deduction
-- final report part two, on testing VLM's ability for rearrangement goal proposal under geometric and physics constraints
-
-<figure>
-<img src="robo_and_shelf.jpeg" alt="shelf arranging robot likes beautiful shelf" width="40%">
-<figcaption><em>Shelf arranging robots love beautiful shelves!</em></figcaption>
-</figure>
-
-## Update for on Jan 4th, 2026
+## Update on Jan 4th, 2026
 added report **"Data-Efficient Preference-Aligned Robotic Shelf Arrangement with Composable Constraint Models"** [here](Zhu_data_efficient_preference_aligned_shelf_arrangement.pdf)
 
 Abstract:
@@ -37,3 +17,25 @@ citation for the updated report:
   note         = {GitHub repository, Accessed: 2026-01-04}
 }
 ```
+<figure>
+<img src="robo_and_shelf.jpeg" alt="shelf arranging robot likes beautiful shelf" width="40%">
+<figcaption><em>Shelf arranging robots love beautiful shelves!</em></figcaption>
+</figure>
+
+## Initial Upload of FYP Report
+I opted for the self-proposed version of my undergraduate final year project (FYP) and I came up with the topic above almost entirely on my own. I am interested in continue doing research along this line or something relevant.
+
+The main point of the project is to minimize human "hard" coding of various environment specifications etc for robots to place objects in a constrained physical structure, which enables the same system structure to be generalizable to new environments, conditions, with(out) variations on human related parameters.
+
+I am looking for research assistant or PhD student positions. Please contact TianqiZhu at u dot nus dot edu if you have opportunity available.
+
+I am also interested in server resources, robots etc, if i could borrow some from someone to use for a short period.
+
+Thanks for reading. Have a nice day.
+
+The reports contain several parts:
+- interim report, on related work and formulation of porblem satisfying several constraints
+- final report part one, pattern deduction
+- final report part two, on testing VLM's ability for rearrangement goal proposal under geometric and physics constraints
+
+
