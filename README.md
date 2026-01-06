@@ -6,7 +6,6 @@ added report **"Data-Efficient Preference-Aligned Robotic Shelf Arrangement with
 Abstract:
  We study the problem of data-efficient object arrangement on shelves with existing objects, where a robot must propose geometrically feasible and semantically aligned goal configurations for newly introduced items while optionally rearranging existing ones. The task is inherently hierarchical: decisions must be made at the level of shelf layers and compartments before resolving precise local object poses. We propose a unified framework that combines (i) a hierarchical generative model that samples geometrically and physically valid shelf configurations, (ii) composable diffusion or energy-based guidance to enforce constraints and minimize rearrangement effort, and (iii) a semantic alignment module driven by large language models (LLMs) and preference diffusion to capture user habits and commonsense organization principles. Semantic alignment is formalized through a semantic projection and distance defined over configurations, enabling reward-like gradient guidance without requiring dense scalar rewards. We further introduce a continual preference learning mechanism that adapts to evolving user feedback while retaining stability via replay and regularization. Our formulation explicitly accounts for compartment capacity, rearrangement feasibility, and minimal-disruption objective when assigning new objects to shelf compartments. We outline a data generation pipeline and training strategy that leverage synthetic sampling, weak supervision from LLMs, and limited human feedback, achieving strong generalization with minimal data. The proposed approach unifies hierarchical planning, generative modeling, and preference-based learning, offering a scalable and flexible solution for personalized robotic shelf organization.
 
-
 citation for the updated report:
 ```
 @misc{zhu_preference_arrangement,
@@ -21,6 +20,16 @@ citation for the updated report:
 <img src="robo_and_shelf.jpeg" alt="shelf arranging robot likes beautiful shelf" width="40%">
 <figcaption><em>Shelf arranging robots love beautiful shelves!</em></figcaption>
 </figure>
+
+## Update on Jan 6th, 2026 
+added report **"Data-Efficient User Preference Acquisition for Shelf Rearrangement via Vision--Language Analysis and Interactive Ranking"** [here](Zhu_data_efficient_user_preference_acquisition.pdf)
+
+Abstract:
+Deploying shelf rearrangement models in real homes requires adapting to individual user preferences, yet obtaining such preference data is a major practical challenge.
+Directly asking users to generate arrangement demonstrations is tedious and does not scale.
+We propose a data-efficient preference acquisition framework that combines (i) analysis of user-provided reference photos using a vision--language model (VLM) and (ii) an interactive ranking interface based on pairwise comparisons and lightweight scoring.
+User preferences are inferred as a set of interpretable arrangement patterns, which are then mapped to composable, constraint-specific diffusion models for arrangement goal generation.
+This design minimizes user effort while enabling robust personalization and transparent preference modeling.
 
 ## Initial Upload of FYP Report
 I opted for the self-proposed version of my undergraduate final year project (FYP) and I came up with the topic above almost entirely on my own. I am interested in continue doing research along this line or something relevant.
