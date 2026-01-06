@@ -17,7 +17,7 @@ citation for the updated report:
 }
 ```
 ## Update on Jan 6th, 2026 
-added report **"Data-Efficient User Preference Acquisition for Shelf Rearrangement via Vision--Language Analysis and Interactive Ranking"** [here](Zhu_data_efficient_user_preference_acquisition.pdf)
+added report **"Data-Efficient User Preference Acquisition for Shelf Rearrangement via Vision-Language Analysis and Interactive Ranking"** [here](Zhu_data_efficient_user_preference_acquisition.pdf)
 
 Abstract:
 Personalized object arrangement in domestic environments requires understanding subjective user preferences that are often implicit
