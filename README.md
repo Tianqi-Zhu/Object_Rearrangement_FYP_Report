@@ -20,11 +20,17 @@ citation for the updated report:
 added report **"Data-Efficient User Preference Acquisition for Shelf Rearrangement via Vision--Language Analysis and Interactive Ranking"** [here](Zhu_data_efficient_user_preference_acquisition.pdf)
 
 Abstract:
-Deploying shelf rearrangement models in real homes requires adapting to individual user preferences, yet obtaining such preference data is a major practical challenge.
-Directly asking users to generate arrangement demonstrations is tedious and does not scale.
-We propose a data-efficient preference acquisition framework that combines (i) analysis of user-provided reference photos using a vision--language model (VLM) and (ii) an interactive ranking interface based on pairwise comparisons and lightweight scoring.
-User preferences are inferred as a set of interpretable arrangement patterns, which are then mapped to composable, constraint-specific diffusion models for arrangement goal generation.
-This design minimizes user effort while enabling robust personalization and transparent preference modeling.
+Personalized object arrangement in domestic environments requires understanding subjective user preferences that are often implicit
+and difficult to articulate. Existing approaches typically rely on user-generated demonstrations or curated datasets, which are costly
+to collect and do not scale well to real-world deployment. We present a data-efficient, human-centered pipeline for adapting shelf
+rearrangement models to individual users by learning preferences through natural interactions. The system acquires preference signals
+from user-provided reference photos and interactive ranking of shelf images, and uses a vision–language model to infer interpretable
+arrangement patterns such as spacing, grouping, and spatial bias. User preferences are represented as weighted, composable constraints
+that guide generative arrangement models. To improve adaptation efficiency over time, the system leverages a growing cross-user
+preference database to refine which examples are presented to new users and to warm-start preference inference. In addition, the
+pipeline supports adaptive discovery of new arrangement patterns when existing categories fail to explain user behavior. Together,
+these components enable transparent, scalable, and low-effort personalization of object arrangement goals suitable for deployment in
+household robotic and assistive systems.
 
 ```
 @misc{zhu_preference_acquisition,
