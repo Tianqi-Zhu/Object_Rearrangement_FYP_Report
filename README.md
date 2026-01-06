@@ -16,11 +16,6 @@ citation for the updated report:
   note         = {GitHub repository, Accessed: 2026-01-04}
 }
 ```
-<figure>
-<img src="robo_and_shelf.jpeg" alt="shelf arranging robot likes beautiful shelf" width="40%">
-<figcaption><em>Shelf arranging robots love beautiful shelves!</em></figcaption>
-</figure>
-
 ## Update on Jan 6th, 2026 
 added report **"Data-Efficient User Preference Acquisition for Shelf Rearrangement via Vision--Language Analysis and Interactive Ranking"** [here](Zhu_data_efficient_user_preference_acquisition.pdf)
 
@@ -30,6 +25,20 @@ Directly asking users to generate arrangement demonstrations is tedious and does
 We propose a data-efficient preference acquisition framework that combines (i) analysis of user-provided reference photos using a vision--language model (VLM) and (ii) an interactive ranking interface based on pairwise comparisons and lightweight scoring.
 User preferences are inferred as a set of interpretable arrangement patterns, which are then mapped to composable, constraint-specific diffusion models for arrangement goal generation.
 This design minimizes user effort while enabling robust personalization and transparent preference modeling.
+
+```
+@misc{zhu_preference_acquisition,
+  title        = {Data-Efficient User Preference Acquisition for Shelf Rearrangement via Vision--Language Analysis and Interactive Ranking},
+  author       = {Zhu, Tianqi},
+  year         = {2026},
+  howpublished = {\url{https://github.com/Tianqi-Zhu/Object_Rearrangement_FYP_Report/Zhu_data_efficient_user_preference_acquisition.pdf}},
+  note         = {GitHub repository, Accessed: 2026-01-06}
+}
+```
+<figure>
+<img src="robo_and_shelf.jpeg" alt="shelf arranging robot likes beautiful shelf" width="40%">
+<figcaption><em>Shelf arranging robots love beautiful shelves!</em></figcaption>
+</figure>
 
 ## Initial Upload of FYP Report
 I opted for the self-proposed version of my undergraduate final year project (FYP) and I came up with the topic above almost entirely on my own. I am interested in continue doing research along this line or something relevant.
