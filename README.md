@@ -4,6 +4,9 @@
 - Google doc one: https://docs.google.com/document/d/1vQ6TnDqs57LIIg0wrAfPz3NKcF2j7TZjyt1pOM3lEwk/edit?usp=sharing
 - Google doc two: https://docs.google.com/document/d/1bNGfMg2cU19ufobZZW97ff-PVwAQd5qv/edit?usp=sharing&ouid=106964031147266588184&rtpof=true&sd=true
 
+## Added the data for LLM testing result submitted together with my FYP final report
+- result_llm.zip
+
 ## Update on Jan 4th, 2026
 added report **"Data-Efficient Preference-Aligned Robotic Shelf Arrangement with Composable Constraint Models"** [here](Zhu_data_efficient_preference_aligned_shelf_arrangement.pdf)
 
