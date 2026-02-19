@@ -11,7 +11,7 @@
   title = {Literature research and discussion on robot reasoning with foundation models, NUS CP4101 update doc},
   year = {2023},
   url = {https://docs.google.com/document/d/1vQ6TnDqs57LIIg0wrAfPz3NKcF2j7TZjyt1pOM3lEwk/edit?usp=sharing},
-  note = {Unpublished Google Doc}
+  note = {Google Doc with link on Github}
 }
 ## citation for google doc2
 @misc{2024ObjectRearrangement,
@@ -19,7 +19,7 @@
   title = {Object rearrangement under geometric and commonsense constraints, NUS CP4101 update doc},
   year = {2024},
   url = {https://docs.google.com/document/d/1vQ6TnDqs57LIIg0wrAfPz3NKcF2j7TZjyt1pOM3lEwk/edit?usp=sharing](https://docs.google.com/document/d/1bNGfMg2cU19ufobZZW97ff-PVwAQd5qv/edit?usp=sharing&ouid=106964031147266588184&rtpof=true&sd=true},
-  note = {Unpublished Google Doc}
+  note = {Google Doc with link on Github}
 }
 ```
 
