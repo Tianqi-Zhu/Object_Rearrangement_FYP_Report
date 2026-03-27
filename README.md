@@ -94,6 +94,10 @@ The reports contain several parts:
 - [MyHouse, MyRules: Learning Tidying Preferences with Graph Neural Networks (CoRL 2021)](https://proceedings.mlr.press/v164/kapelyukh22a/kapelyukh22a.pdf)
 - [TarGF: Learning Target Gradient Field to Rearrange Objects without Explicit Goal Specification (NeurIPS 2022)](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cf5a019ae9c11b4be88213ce3f85d85c-Abstract-Conference.html)
 - [LEGO-Net: Learning Regular Rearrangements of Objects in Rooms (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_LEGO-Net_Learning_Regular_Rearrangements_of_Objects_in_Rooms_CVPR_2023_paper.html)
+- [SG-Bot: Object Rearrangement via Coarse-to-Fine Robotic Imagination on Scene Graphs (ICRA 2024)](https://sites.google.com/view/sg-bot)
+- [ConSOR: A Context-Aware Semantic Object Rearrangement Framework for Partially Arranged Scenes (IROS 2023)](https://ieeexplore.ieee.org/abstract/document/10341873)
+- [StructDiffusion: Language-Guided Creation of Physically-Valid Structures using Unseen Objects (RSS 2023)](https://structdiffusion.github.io/)
+  
 ### Relevant talk on the research direction 
 - [Yann LeCun: From Machine Learning to Autonomous Intelligence (Sep, 2022)](https://www.youtube.com/watch?v=VRzvpV9DZ8Y)
 - [Yann LeCun: "Energy-Based Self-Supervised Learning" (Nov 2019)](https://www.youtube.com/watch?v=A7AnCvYDQrU)
