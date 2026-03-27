@@ -97,3 +97,5 @@ The reports contain several parts:
 ### Relevant talk on the research direction 
 - [Yann LeCun: From Machine Learning to Autonomous Intelligence (Sep, 2022)](https://www.youtube.com/watch?v=VRzvpV9DZ8Y)
 - [Yann LeCun: "Energy-Based Self-Supervised Learning" (Nov 2019)](https://www.youtube.com/watch?v=A7AnCvYDQrU)
+- [Yilun Du - Implicit Learning with Energy-Based Models | Nuro Technical Talks (Oct 2022)](https://youtu.be/As93L2pwR-E?si=Y_10BphJZ40U92LC)
+- [Stanford CS236: Deep Generative Models I 2023 I Lecture 11 - Energy Based Models](https://youtu.be/m61KiAMCJ5Q?si=HJdborPqCaPrBGzg)
