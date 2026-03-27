@@ -88,4 +88,7 @@ The reports contain several parts:
 - final report part one, pattern deduction
 - final report part two, on testing VLM's ability for rearrangement goal proposal under geometric and physics constraints
 
-
+## Useful Related Work
+- [Compositional Diffusion-Based Continuous Constraint Solvers](https://diffusion-ccsp.github.io/)
+- [Energy-based Models are Zero-Shot Planners for Compositional Scene Rearrangement](https://rss2023.github.io/rss2023-website/program/papers/030/)
+- [MyHouse, MyRules: Learning Tidying Preferences with Graph Neural Networks](https://proceedings.mlr.press/v164/kapelyukh22a/kapelyukh22a.pdf)
