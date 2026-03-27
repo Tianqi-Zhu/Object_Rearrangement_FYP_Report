@@ -93,4 +93,4 @@ The reports contain several parts:
 - [Energy-based Models are Zero-Shot Planners for Compositional Scene Rearrangement (RSS 2023)](https://rss2023.github.io/rss2023-website/program/papers/030/)
 - [MyHouse, MyRules: Learning Tidying Preferences with Graph Neural Networks (CoRL 2021)](https://proceedings.mlr.press/v164/kapelyukh22a/kapelyukh22a.pdf)
 - [TarGF: Learning Target Gradient Field to Rearrange Objects without Explicit Goal Specification (NeurIPS 2022)](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cf5a019ae9c11b4be88213ce3f85d85c-Abstract-Conference.html)
-- []()
+- [LEGO-Net: Learning Regular Rearrangements of Objects in Rooms (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_LEGO-Net_Learning_Regular_Rearrangements_of_Objects_in_Rooms_CVPR_2023_paper.html)
