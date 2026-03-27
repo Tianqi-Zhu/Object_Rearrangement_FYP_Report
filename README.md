@@ -96,3 +96,4 @@ The reports contain several parts:
 - [LEGO-Net: Learning Regular Rearrangements of Objects in Rooms (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_LEGO-Net_Learning_Regular_Rearrangements_of_Objects_in_Rooms_CVPR_2023_paper.html)
 ### Relevant talk on the research direction 
 - [Yann LeCun: From Machine Learning to Autonomous Intelligence](https://www.youtube.com/watch?v=VRzvpV9DZ8Y)
+- [Yann LeCun: "Energy-Based Self-Supervised Learning"](https://www.youtube.com/watch?v=A7AnCvYDQrU)
