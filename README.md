@@ -89,8 +89,8 @@ The reports contain several parts:
 - final report part two, on testing VLM's ability for rearrangement goal proposal under geometric and physics constraints
 
 ## Useful Related Work
-- [Compositional Diffusion-Based Continuous Constraint Solvers(CoRL 2023)](https://diffusion-ccsp.github.io/)
-- [Energy-based Models are Zero-Shot Planners for Compositional Scene Rearrangement(RSS 2023)](https://rss2023.github.io/rss2023-website/program/papers/030/)
-- [MyHouse, MyRules: Learning Tidying Preferences with Graph Neural Networks(CoRL 2021)](https://proceedings.mlr.press/v164/kapelyukh22a/kapelyukh22a.pdf)
+- [Compositional Diffusion-Based Continuous Constraint Solvers (CoRL 2023)](https://diffusion-ccsp.github.io/)
+- [Energy-based Models are Zero-Shot Planners for Compositional Scene Rearrangement (RSS 2023)](https://rss2023.github.io/rss2023-website/program/papers/030/)
+- [MyHouse, MyRules: Learning Tidying Preferences with Graph Neural Networks (CoRL 2021)](https://proceedings.mlr.press/v164/kapelyukh22a/kapelyukh22a.pdf)
 - [TarGF: Learning Target Gradient Field to Rearrange Objects without Explicit Goal Specification (NeurIPS 2022)](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cf5a019ae9c11b4be88213ce3f85d85c-Abstract-Conference.html)
 - []()
